@@ -2,7 +2,7 @@
 
 Universal Eaglercraft server (1.5, 1.8, 1.12) using Paper 1.12.2
 
-Use the `run.bat` file to run on Windows, or `run.sh` to run on macOS or Linux. The server uses port *25565* for both Vanilla and Eaglercraft players.
+Use the `run.bat` file to run on Windows, or `run.sh` to run on macOS or Linux. The server uses port **25565** for both Vanilla and Eaglercraft players.
 
 Based on EaglercraftXServer, EaglercraftXRewind, ViaVersion, SkinsRestorer, and AuthMeReloaded.
 
@@ -17,7 +17,7 @@ Fork this Repo to make it more popular
 
 First, you need to create a GitHub Codespaces
 To make one click on the big green button that says **<>Code**
-Click on the tab below the button right next to local that says "Codespaces"
+Click on the tab below the button, right next to local, that says "Codespaces"
 Then click on **Create codespace on main**
 Once you have loaded in the codespace then type this into the terminal:
 ```bash
@@ -32,3 +32,11 @@ To connect to your new server, you need to make a port if it didn't automaticall
 Next to terminal, it should say *port* and click on it
 The port should be 25565, the default port of a Minecraft Server
 If there isnt any port then click on *add port* then type in **25565**
+Right click on **port visibility** then click make public
+Right click on it again and click on *open in browser*
+
+## Opening the server for another time
+
+FYI You need to do this every time you open a server
+
+
