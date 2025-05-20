@@ -37,6 +37,9 @@ Right click on it again and click on *open in browser*
 
 ## Opening the server for another time
 
-FYI You need to do this every time you open a server
-
-
+FYI You need to do this every time you reopen the server
+Type this into the terminal
+```bash
+./run.sh
+```
+open port **25565** make it visable then you are done
