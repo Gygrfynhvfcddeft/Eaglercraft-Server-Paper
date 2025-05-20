@@ -28,4 +28,7 @@ Type this into the terminal when you want to start your server up:
 ```bash
 ./run.sh
 ```
-To connect to your new
+To connect to your new server, you need to make a port if it didn't automatically make it
+Next to terminal, it should say *port* and click on it
+The port should be 25565, the default port of a Minecraft Server
+If there isnt any port then click on *add port* then type in **25565**
