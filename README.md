@@ -14,6 +14,7 @@ Fork this Repo to make it more popular
 
 
 ## First time setting up the server(For Github Codespaces)
+(You can also use this on Linux if you want, but you would need to play locally or port forward yourself)
 
 First, you need to create a GitHub Codespaces
 To make one click on the big green button that says **<>Code**
